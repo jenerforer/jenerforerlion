@@ -28,7 +28,7 @@ justwatch
 lottie
 lyricsgenius
 markdown
-motor
+
 multiutility
 nekos.py
 opencv-python-headless
