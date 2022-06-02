@@ -29,7 +29,6 @@ lottie
 lyricsgenius
 markdown
 motor
-moviepy
 multiutility
 nekos.py
 opencv-python-headless
@@ -73,3 +72,4 @@ git+https://github.com/goldsmith/Wikipedia
 youtube-search-python
 youtube_dl
 #Jaa na Chakke 🌚🌚 
+
